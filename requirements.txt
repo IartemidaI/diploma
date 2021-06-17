@@ -1,0 +1,5 @@
+dnspython==2.1.0
+ifaddr==0.1.7
+netifaces @ file:///C:/Users/ArtemidA/Downloads/netifaces-0.11.0-cp39-cp39-win_amd64.whl
+network==0.1
+speedtest-cli==2.1.3
